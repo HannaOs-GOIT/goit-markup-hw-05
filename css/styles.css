@@ -724,7 +724,7 @@ outline: transparent;
   }
 
 
-.modal-form-input:focus svg+ .input-modal-icon {
+.modal-textarea:focus {
   fill: #4d5ae5; 
 }
 
@@ -803,9 +803,9 @@ fill: transparent;
 
 
 .visually-hidden:checked+ .modal-check-text> .modal-check-span {
-  background-color:#f4f4fd;
+  background-color:#404bbf;;
   border: none;
-  fill: #ffffff;
+  fill: #F4F4FD;
 }
 
 .modal-form .modal-button {
